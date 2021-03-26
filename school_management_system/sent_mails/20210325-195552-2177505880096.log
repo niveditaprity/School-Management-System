@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: surbhikhg@gmail.com
+Date: Thu, 25 Mar 2021 14:25:52 -0000
+Message-ID: <161668235216.10488.2790813333659676109@LAPTOP-U6E49534>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mg/ak30p4-fca1fc775b42bb9d06bbca9eec21b170/
+
+Your username, in case you’ve forgotten: Surbhi@2211
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
